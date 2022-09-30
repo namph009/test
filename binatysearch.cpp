@@ -6,8 +6,8 @@ using namespace std;
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-     int mid = nums.end() + nums.begin();
-     cout << mid;
+     int mid = nums.size();
+     int temp = 
     }
 };
 
